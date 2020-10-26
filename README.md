@@ -49,6 +49,7 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/mas
 * [Devsisters](https://devsisters.com/)
 * [DHL Parcel The Netherlands](https://www.werkenbijdhl.nl/it)
 * [Evolution Gaming](https://www.evolutiongaming.com/)
+* [Fugo.AI](https://fugo.ai/)
 * [Hunters.AI](https://hunters.ai)
 * [Kaizen Solutions](https://kaizen-solutions.net/)
 * [Kensu](https://kensu.io)
