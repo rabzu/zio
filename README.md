@@ -50,6 +50,7 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/mas
 * [Devsisters](https://devsisters.com/)
 * [DHL Parcel The Netherlands](https://www.werkenbijdhl.nl/it)
 * [Evolution Gaming](https://www.evolutiongaming.com/)
+* [Fugo.ai](https://www.fugo.ai/)
 * [Hunters.AI](https://hunters.ai)
 * [iHeartRadio](https://www.iheart.com/)
 * [Investsuite](https://investsuite.com/)
